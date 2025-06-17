@@ -12,9 +12,4 @@ This repository contains the LaTeX source files for my CV, built using the [Awes
 - `Eoin Curtis CV.pdf` — The compiled PDF version of my CV  
 - LaTeX source files (`.tex`, `.sty`, etc.) — Used to build the PDF  
 
-## How to Compile
 
-To compile the PDF from the LaTeX sources, you can use:
-
-```bash
-pdflatex "Eoin Curtis CV.tex"
